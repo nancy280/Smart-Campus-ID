@@ -1,5 +1,7 @@
 # Smart Campus ID System 🚀  
 
+[![Download APK](https://img.shields.io/badge/Download-APK-brightgreen)](./SmartCampusID.apk)
+
 ![Smart Campus Banner](ScreenShot/CampusIDBanner.png)  
 
 The **Smart Campus ID System** is a cutting-edge solution designed to enhance student identification, attendance tracking, and campus security using **NFC, GPS, and mobile payment systems**. This all-in-one platform streamlines administrative tasks and improves student safety while ensuring seamless operations.  
